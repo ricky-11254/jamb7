@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
           // Show 'image' defined in question object
 
           if (typeof question.image !== "undefined") {
-            $("#image img").attr("src", "https://ricky-11254.github.io/jamb1/" + question.image);
+            $("#image img").attr("src", "https://ricky-11254.github.io/jamb1/img/" + question.image);
             $("#image").show();
           } else {
             $("#image").hide();
