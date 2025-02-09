@@ -19,7 +19,7 @@
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
       explanation: "",
-      explanationImage = "img/jamb7_1.png"
+      explanationImage: "img/jamb7_1.png"
     },
     {
       //2
@@ -36,7 +36,7 @@
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
       explanation: "",
-      explanationImage = "img/jamb7_2.png"
+      explanationImage: "img/jamb7_2.png"
     },
     {
       //3
@@ -53,7 +53,7 @@
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
       explanation: "",
-      explanationImage = "img/jamb7_3.png"
+      explanationImage: "img/jamb7_3.png"
     },
     {
       //4
@@ -70,7 +70,7 @@
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
       explanation: "",
-      explanationImage = "img/jamb7_4.png"
+      explanationImage: "img/jamb7_4.png"
     },
     {
       //5
@@ -87,7 +87,7 @@
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
       explanation: "",
-      explanationImage = "img/jamb7_5.png"
+      explanationImage: "img/jamb7_5.png"
     },
 /*
     {
@@ -105,7 +105,7 @@
       image: "img/JAMB7_Comprehension_SectionA_PassageII.png",
       content: "",
       explanation: "",
-      explanationImage = "img/JAMB7_Comprehension_SectionA_PassageI.png"
+      explanationImage: "img/JAMB7_Comprehension_SectionA_PassageI.png"
     },
   */
 ];
