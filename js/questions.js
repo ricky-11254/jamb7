@@ -18,7 +18,8 @@
       // audio: "",
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
-      explanation: ""
+      explanation: "",
+      explanationImage = "img/jamb7_1.png"
     },
     {
       //2
@@ -34,7 +35,8 @@
       // audio: "",
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
-      explanation: ""
+      explanation: "",
+      explanationImage = "img/jamb7_2.png"
     },
     {
       //3
@@ -50,7 +52,8 @@
       // audio: "",
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
-      explanation: ""
+      explanation: "",
+      explanationImage = "img/jamb7_3.png"
     },
     {
       //4
@@ -66,7 +69,8 @@
       // audio: "",
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
-      explanation: ""
+      explanation: "",
+      explanationImage = "img/jamb7_4.png"
     },
     {
       //5
@@ -82,7 +86,8 @@
       // audio: "",
       image: "img/JAMB7_Comprehension_SectionA_PassageI.png",
       content: "",
-      explanation: ""
+      explanation: "",
+      explanationImage = "img/jamb7_5.png"
     },
 /*
     {
@@ -99,7 +104,8 @@
       // audio: "",
       image: "img/JAMB7_Comprehension_SectionA_PassageII.png",
       content: "",
-      explanation: ""
+      explanation: "",
+      explanationImage = "img/JAMB7_Comprehension_SectionA_PassageI.png"
     },
   */
 ];

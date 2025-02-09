@@ -326,10 +326,16 @@ document.addEventListener("DOMContentLoaded", (event) => {
                 `;
 
                 // Add image if exists
+                // Instead of original image replace with explantion image
                 if (question.image) {
-                    html += `<img src="https://ricky-11254.github.io/jamb7/${question.image}" alt="Question Image" class="question-image">`;
+                    html += `<img src="https://ricky-11254.github.io/jamb7/${question.explanationImage}" alt="Question Image" class="question-image">`;
                 }
-
+/*
+                // Add explanation image if exists
+                if (question.explanationImage) {
+                    html += `<img src="https://ricky-11254.github.io/jamb7/${question.explanationImage}" alt="Explanation Image" class="question-image">`;
+                }
+*/
                 // Add audio if exists
                 if (question.audio) {
                     html += `
